@@ -7,35 +7,35 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/Padilla-Lab-Website/";
+      window.location.href = "/";
     },
   },{id: "nav-research",
           title: "research",
           description: "We build delivery chemistry for the next generation of nucleic acid medicines.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Padilla-Lab-Website/research/";
+            window.location.href = "/research/";
           },
         },{id: "nav-publications",
           title: "publications",
           description: "For the most current list, see Google Scholar.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Padilla-Lab-Website/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-team",
           title: "team",
           description: "The Padilla Lab opens in September 2026 — founding member recruitment is underway.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Padilla-Lab-Website/team/";
+            window.location.href = "/team/";
           },
         },{id: "nav-join",
           title: "join",
           description: "The Padilla Lab opens in September 2026. Founding members shape everything — the science, the culture, and the lab itself.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Padilla-Lab-Website/join/";
+            window.location.href = "/join/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -69,22 +69,22 @@ ninja.data = [{
           title: 'Ionic liquid–nanoparticle hybrid materials',
           description: "Mucoadhesive delivery systems for oral disease and barrier tissues",
           section: "Projects",handler: () => {
-              window.location.href = "/Padilla-Lab-Website/projects/ionic_liquids/";
+              window.location.href = "/projects/ionic_liquids/";
             },},{id: "projects-ionizable-lipid-design-amp-synthesis",
           title: 'Ionizable lipid design &amp;amp; synthesis',
           description: "New lipid chemistries that control potency, biodegradability, and endosomal escape",
           section: "Projects",handler: () => {
-              window.location.href = "/Padilla-Lab-Website/projects/ionizable_lipids/";
+              window.location.href = "/projects/ionizable_lipids/";
             },},{id: "projects-lnp-delivery-of-mrna-amp-gene-editors",
           title: 'LNP delivery of mRNA &amp;amp; gene editors',
           description: "Nanoparticle platforms for protein replacement, CRISPR-based editing, and cell engineering",
           section: "Projects",handler: () => {
-              window.location.href = "/Padilla-Lab-Website/projects/lnp_gene_editing/";
+              window.location.href = "/projects/lnp_gene_editing/";
             },},{id: "projects-targeted-delivery-via-bioconjugation",
           title: 'Targeted delivery via bioconjugation',
           description: "Click chemistry approaches for directing nanoparticles to specific cells and tissues",
           section: "Projects",handler: () => {
-              window.location.href = "/Padilla-Lab-Website/projects/targeted_delivery/";
+              window.location.href = "/projects/targeted_delivery/";
             },},{
         id: 'social-email',
         title: 'email',
