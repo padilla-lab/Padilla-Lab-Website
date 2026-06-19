@@ -4,85 +4,411 @@
 % =========================================================================
 % PADILLA LAB PUBLICATIONS
 %
-% HOW TO ADD PAPERS: the easiest way is to export BibTeX from Google
-% Scholar (click the quote icon under a paper -> BibTeX) or from Zotero,
-% then paste the entry below. Useful extra fields supported by this site:
+% Each entry has an "author_role" field that controls which section it
+% appears in on the publications page:
+%     author_role={first}  -> "First & Co-First Author" section
+%     author_role={co}     -> "Co-Author" section
+%
+% TO ADD A NEW PAPER: see the step-by-step guide (HOW_TO_ADD_PAPERS.md).
+% In short: get the BibTeX from Google Scholar, paste it below, and add
+% one line: author_role={first} or author_role={co}.
+%
+% Optional fields you can include:
 %   abbr={Nat. Commun.}   -> colored journal badge next to the entry
 %   bibtex_show={true}    -> adds a "BIB" button
-%   selected={true}       -> shows the paper on the homepage
-%   doi={...}             -> adds a DOI link button
+%   selected={true}       -> ALSO features the paper on the homepage
+%   doi={...}             -> adds a clickable DOI link
 %   pdf={file.pdf}        -> links a PDF placed in assets/pdf/
-% Your name is bolded automatically (configured in _config.yml).
 %
-% A starter set of publications is below — please verify each entry and
-% then paste in your complete publication list.
+% Your name bolds automatically (configured in _config.yml).
+% Only PUBLISHED papers are included here (no submitted / in-revision /
+% in-press / accepted / in-preparation entries).
+% =========================================================================
+
+
+% =========================================================================
+%  FIRST & CO-FIRST AUTHOR
 % =========================================================================
 
 @article{padilla2025bend,
+  author_role={first},
   abbr={Nat. Commun.},
   bibtex_show={true},
+  selected={true},
   title={Branched endosomal disruptor (BEND) lipids mediate delivery of mRNA and CRISPR-Cas9 ribonucleoprotein complex for hepatic gene editing and T cell engineering},
   author={Padilla, Marshall S. and Mrksich, Kaitlin and Wang, Yiming and Haley, Rebecca M. and Li, Jacqueline J. and Han, Emily L. and El-Mayta, Rakan and Kim, Emily H. and Dias, Sofia and Gong, Ningqiang and Teerdhala, Sridatta V. and Han, Xuexiang and Chowdhary, Vivek and Xue, Lulu and Siddiqui, Zain and Yamagata, Hannah M. and Kim, Dongyoon and Yoon, Il-Chul and Wilson, James M. and Radhakrishnan, Ravi and Mitchell, Michael J.},
   journal={Nature Communications},
   volume={16},
+  pages={996},
   year={2025},
-  doi={10.1038/s41467-024-55137-6},
-  selected={true}
+  doi={10.1038/s41467-024-55137-6}
 }
 
-@article{padilla2025biophysical,
-  abbr={Nat. Biotechnol.},
+@article{kim2024immune,
+  author_role={first},
+  abbr={Eur. J. Immunol.},
   bibtex_show={true},
-  title={Elucidating lipid nanoparticle properties and structure through biophysical analyses},
-  author={Padilla, Marshall S. and Shepherd, Sarah J. and Hanna, Andrew R. and Kurnik, Martin and Zhang, Xujun and Chen, Michelle and Byrnes, James and Joseph, Ryann A. and Yamagata, Hannah M. and Ricciardi, Adele S. and Mrksich, Kaitlin and Issadore, David and Gupta, Kushol and Mitchell, Michael J.},
-  journal={Nature Biotechnology},
-  year={2025},
-  doi={10.1038/s41587-025-02855-x},
-  selected={true}
+  title={Lipid nanoparticle-mediated RNA delivery for immune cell modulation},
+  author={Kim, Emily H. and Teerdhala, Sridatta V. and Padilla, Marshall S. and Joseph, Ryann A. and Li, Jacqueline J. and Haley, Rebecca M. and Mitchell, Michael J.},
+  journal={European Journal of Immunology},
+  volume={54},
+  pages={2451008},
+  year={2024},
+  doi={10.1002/eji.202451008}
 }
 
 @article{mrksich2024endosome,
+  author_role={first},
   abbr={Adv. Drug Deliv. Rev.},
   bibtex_show={true},
+  selected={true},
   title={Breaking the final barrier: evolution of cationic and ionizable lipid structure in lipid nanoparticles to escape the endosome},
   author={Mrksich, Kaitlin and Padilla, Marshall S. and Mitchell, Michael J.},
   journal={Advanced Drug Delivery Reviews},
   volume={214},
   pages={115446},
   year={2024},
-  doi={10.1016/j.addr.2024.115446},
-  selected={true}
+  doi={10.1016/j.addr.2024.115446}
 }
 
-@article{geisler2026targeted,
-  abbr={Nat. Protoc.},
+@article{padilla2024ionicliquid,
+  author_role={first},
+  abbr={J. Mol. Liq.},
   bibtex_show={true},
-  title={Preparation of targeted lipid nanoparticles for precision nucleic acid delivery},
-  author={Geisler, Hannah C. and Battistini, Elisa and Thatte, Ajay S. and Padilla, Marshall S. and Mitchell, Michael J.},
-  journal={Nature Protocols},
+  title={Probing ionic liquid toxicity through biophysical and computational methods},
+  author={Padilla, Marshall S. and Mecozzi, Sandro},
+  journal={Journal of Molecular Liquids},
+  volume={395},
+  pages={123886},
+  year={2024},
+  doi={10.1016/j.molliq.2023.123886}
+}
+
+@article{padilla2023mct,
+  author_role={first},
+  abbr={J. Pharm. Sci.},
+  bibtex_show={true},
+  title={MCT nanoemulsions for the efficient delivery of siRNA},
+  author={Padilla, Marshall S. and Tangsangasaksri, Montri and Chang, Chia-Chih and Mecozzi, Sandro},
+  journal={Journal of Pharmaceutical Sciences},
+  volume={113},
+  pages={764--771},
+  year={2023},
+  doi={10.1016/j.xphs.2023.11.013}
+}
+
+@article{padilla2021gemini,
+  author_role={first},
+  abbr={Green Chem.},
+  bibtex_show={true},
+  title={Expanding the structural diversity of hydrophobic ionic liquids: physicochemical properties and toxicity of Gemini ionic liquids},
+  author={Padilla, Marshall S. and Bertz, Colin and Berdusco, Nicole and Mecozzi, Sandro},
+  journal={Green Chemistry},
+  volume={23},
+  pages={4375--4385},
+  year={2021},
+  doi={10.1039/D1GC00742D}
+}
+
+@article{padilla2016tyrosine,
+  author_role={first},
+  abbr={Tetrahedron Lett.},
+  bibtex_show={true},
+  title={Synthesis and incorporation of a caged tyrosine amino acid possessing a bioorthogonal handle},
+  author={Padilla, Marshall S. and Farley, Connor A. and Chatkewitz, Lindsay E. and Young, Douglas D.},
+  journal={Tetrahedron Letters},
+  volume={57},
+  pages={4709--4712},
+  year={2016},
+  doi={10.1016/j.tetlet.2016.09.033}
+}
+
+@article{padilla2015azobenzene,
+  author_role={first},
+  abbr={Bioorg. Med. Chem. Lett.},
+  bibtex_show={true},
+  title={Photosensitive GFP mutants containing an azobenzene unnatural amino acid},
+  author={Padilla, Marshall S. and Young, Douglas D.},
+  journal={Bioorganic \& Medicinal Chemistry Letters},
+  volume={25},
+  pages={470--473},
+  year={2015},
+  doi={10.1016/j.bmcl.2014.12.035}
+}
+
+
+% =========================================================================
+%  CO-AUTHOR
+% =========================================================================
+
+@article{yamagata2026arolnp,
+  author_role={co},
+  abbr={JACS},
+  bibtex_show={true},
+  title={Aromatic mRNA lipid nanoparticle (aroLNP) platform confers lymph node tropism and vaccine protection with reduced liver delivery},
+  author={Yamagata, Hannah M. and Padilla, Marshall S. and Hamilton, Alex G. and Swingle, Kelsey L. and Ricciardi, Adele S. and Thatte, Ajay E. and Joseph, Ryann A. and Chalom, Ori and Geisler, Hannah C. and Li, Jacqueline J. and Agrawal, Akash and Du, Sophie and Kim, Dongyoon and Whitaker, Rachel and Figueroa-Espada, Christian G. and Han, Emily L. and Murray, Amanda M. and Alameh, Mohamad-Gabriel and Weissman, Drew and Mitchell, Michael J.},
+  journal={Journal of the American Chemical Society},
+  volume={13},
+  pages={14137--14150},
   year={2026},
-  doi={10.1038/s41596-025-01330-w}
+  doi={10.1021/jacs.6c00080}
+}
+
+@article{hanna2026microfluidic,
+  author_role={co},
+  abbr={ACS Nano},
+  bibtex_show={true},
+  title={Automated and parallelized microfluidic generation of large and precisely-defined lipid nanoparticle libraries},
+  author={Hanna, Andrew R. and Shepherd, Sarah J. and Datto, Gregory A. and Navarro, Ian and Ricciardi, Adele S. and Padilla, Marshall S. and Srikumar, Neha and Zhang, Sheng and Yamagata, Hannah M. and Meng, Nina Y. and Buser, Joshua R. and Mitchell, Michael J. and Issadore, David},
+  journal={ACS Nano},
+  volume={1},
+  pages={772--789},
+  year={2026},
+  doi={10.1021/acsnano.5c15613}
 }
 
 @article{joseph2025cas9,
+  author_role={co},
   abbr={Nano Lett.},
   bibtex_show={true},
-  title={Cas9 protein outperforms mRNA in lipid nanoparticle-mediated CFTR repair},
+  title={Cas9 protein enhances lipid nanoparticle-mediated CFTR repair compared to mRNA},
   author={Joseph, Ryann A. and Haley, Rebecca M. and Padilla, Marshall S. and Ricciardi, Adele S. and Yamagata, Hannah M. and Mitchell, Michael J.},
   journal={Nano Letters},
   volume={25},
-  number={39},
   pages={14348--14355},
   year={2025},
   doi={10.1021/acs.nanolett.5c03548}
 }
 
-@article{han2025brain,
+@article{haley2025lung,
+  author_role={co},
+  abbr={ACS Nano},
+  bibtex_show={true},
+  title={Lipid nanoparticles for in vivo lung delivery of CRISPR-Cas9 ribonucleoproteins allow gene editing of clinical targets},
+  author={Haley, Rebecca M. and Padilla, Marshall S. and El-Mayta, Rakan D. and Joseph, Ryann A. and Weber, Jamie A. and Figueroa-Espada, Christian G. and Mukalel, Alvin J. and Ricciardi, Adele S. and Palanki, Rohan and Geisler, Hannah C. and Jester, Margaret T. and Davidson, Beverly L. and Mitchell, Michael J.},
+  journal={ACS Nano},
+  volume={19},
+  pages={13790--13804},
+  year={2025},
+  doi={10.1021/acsnano.4c16617}
+}
+
+@article{han2024brain,
+  author_role={co},
   abbr={Nano Lett.},
   bibtex_show={true},
   title={Peptide-functionalized lipid nanoparticles for targeted systemic mRNA delivery to the brain},
   author={Han, Emily L. and Tang, Sophia and Kim, Dongyoon and Murray, Amanda M. and Swingle, Kelsey L. and Hamilton, Alex G. and Mrksich, Kaitlin and Padilla, Marshall S. and Palanki, Rohan and Li, Jacqueline J. and Mitchell, Michael J.},
   journal={Nano Letters},
-  year={2025},
+  volume={25},
+  pages={800--810},
+  year={2024},
   doi={10.1021/acs.nanolett.4c05186}
+}
+
+@article{han2024amidine,
+  author_role={co},
+  abbr={Nat. Chem.},
+  bibtex_show={true},
+  title={Fast and facile synthesis of amidine-incorporated degradable lipids for versatile mRNA delivery in vivo},
+  author={Han, Xuexiang and Alameh, Mohamad-Gabriel and Gong, Ningqiang and Xue, Lulu and Ghattas, Majed and Bojja, Giridhar and Xu, Junchao and Zhao, Gan and Warzecha, Claude C. and Padilla, Marshall S. and El-Mayta, Rakan and Dwivedi, Garima and Xu, Yiming and Vaughan, Andrew E. and Wilson, James M. and Weissman, Drew and Mitchell, Michael J.},
+  journal={Nature Chemistry},
+  volume={16},
+  pages={1687--1697},
+  year={2024},
+  doi={10.1038/s41557-024-01557-2}
+}
+
+@article{han2024bbb,
+  author_role={co},
+  abbr={Nano Lett.},
+  bibtex_show={true},
+  title={Predictive high-throughput platform for dual screening of mRNA lipid nanoparticle blood-brain barrier transfection and crossing},
+  author={Han, Emily L. and Padilla, Marshall S. and Palanki, Rohan and Kim, Dongyoon and Mrksich, Kaitlin and Li, Jacqueline J. and Tang, Sophia and Yoon, Il-Chul and Mitchell, Michael J.},
+  journal={Nano Letters},
+  volume={24},
+  pages={1477--1486},
+  year={2024},
+  doi={10.1021/acs.nanolett.3c03509}
+}
+
+@article{metzloff2024apc,
+  author_role={co},
+  abbr={Adv. Mater.},
+  bibtex_show={true},
+  title={Antigen presenting cell mimetic lipid nanoparticles for rapid mRNA CAR T cell cancer immunotherapy},
+  author={Metzloff, Ann E. and Padilla, Marshall S. and Gong, Ningqiang and Billingsley, Margaret M. and Han, Xuexiang and Merolle, Maria and Mai, Dan and Figueroa-Espada, Christian G. and Thatte, Ajay S. and Haley, Rebecca M. and Mukalel, Alvin J. and Hamilton, Alex G. and Alameh, Mohamad-Gabriel and Weissman, Drew and Sheppard, Neil C. and June, Carl H. and Mitchell, Michael J.},
+  journal={Advanced Materials},
+  volume={36},
+  pages={2313226},
+  year={2024},
+  doi={10.1002/adma.202313226}
+}
+
+@article{mrksich2024taillength,
+  author_role={co},
+  abbr={J. Biomed. Mater. Res. A},
+  bibtex_show={true},
+  title={Influence of ionizable lipid tail length on lipid nanoparticle delivery of mRNA of varying length},
+  author={Mrksich, Kaitlin and Padilla, Marshall S. and Joseph, Ryann A. and Han, Emily L. and Kim, Dongyoon and Palanki, Rohan and Xu, Junchao and Mitchell, Michael J.},
+  journal={Journal of Biomedical Materials Research Part A},
+  volume={112},
+  pages={1494--1505},
+  year={2024},
+  doi={10.1002/jbm.a.37705}
+}
+
+@article{geisler2024egfr,
+  author_role={co},
+  abbr={J. Control. Release},
+  bibtex_show={true},
+  title={EGFR-targeted ionizable lipid nanoparticles enhance in vivo mRNA delivery to the placenta},
+  author={Geisler, Hannah C. and Ghalsasi, Aditya A. and Safford, Hannah C. and Swingle, Kelsey L. and Thatte, Ajay S. and Mukalel, Alvin J. and Gong, Ningqiang and Hamilton, Alex G. and Han, Emily L. and Nachod, Benjamin E. and Padilla, Marshall S. and Mitchell, Michael J.},
+  journal={Journal of Controlled Release},
+  volume={371},
+  pages={455--469},
+  year={2024},
+  doi={10.1016/j.jconrel.2024.05.036}
+}
+
+@article{mukalel2024oxidized,
+  author_role={co},
+  abbr={Adv. Funct. Mater.},
+  bibtex_show={true},
+  title={Oxidized mRNA lipid nanoparticles for in situ chimeric antigen receptor monocyte engineering},
+  author={Mukalel, Alvin J. and Hamilton, Alex G. and Billingsley, Margaret M. and Li, Jacqueline and Thatte, Ajay S. and Han, Xuexiang and Safford, Hannah C. and Padilla, Marshall S. and Papp, Tyler and Parhiz, Hamideh and Weissman, Drew and Mitchell, Michael J.},
+  journal={Advanced Functional Materials},
+  volume={34},
+  pages={2312038},
+  year={2024},
+  doi={10.1002/adfm.202312038}
+}
+
+@article{haley2023ras,
+  author_role={co},
+  abbr={ACS Appl. Mater. Interfaces},
+  bibtex_show={true},
+  title={Lipid nanoparticle delivery of small proteins for potent in vivo RAS inhibition},
+  author={Haley, Rebecca M. and Chan, Alexander and Billingsley, Margaret M. and Gong, Ningqiang and Padilla, Marshall S. and Kim, Emily H. and Wang, Hejia and Yin, Dongni and Wangensteen, Kirk J. and Tsourkas, Andrew and Mitchell, Michael J.},
+  journal={ACS Applied Materials \& Interfaces},
+  volume={15},
+  pages={21877--21892},
+  year={2023},
+  doi={10.1021/acsami.3c01501}
+}
+
+@article{prazeres2023plasmid,
+  author_role={co},
+  abbr={Int. J. Nanomedicine},
+  bibtex_show={true},
+  title={Delivery of plasmid DNA by ionizable lipid nanoparticles to induce CAR expression in T cells},
+  author={Prazeres, Pedro H. D. M. and Ferreira, Heloisa and Costa, Pedro A. C. and da Silva, Walison and Alves, Marco T. and Padilla, Marshall and Thatte, Ajay and Santos, Anderson K. and Lobo, Anderson O. and Sabino, Adriano and Del Puerto, Helen L. and Mitchell, Michael J. and Guimaraes, Pedro P. G.},
+  journal={International Journal of Nanomedicine},
+  volume={18},
+  pages={5891--5904},
+  year={2023},
+  doi={10.2147/IJN.S424723}
+}
+
+@article{shepherd2023vaccine,
+  author_role={co},
+  abbr={PNAS},
+  bibtex_show={true},
+  title={Throughput-scalable manufacturing of SARS-CoV-2 mRNA lipid nanoparticle vaccines},
+  author={Shepherd, Sarah J. and Han, Xuexiang and Mukalel, Alvin J. and El-Mayta, Rakan and Thatte, Ajay S. and Wu, Jingya and Padilla, Marshall S. and Alameh, Mohamad-Gabriel and Srikumar, Neha and Lee, Daeyeon and Weissman, Drew and Issadore, David and Mitchell, Michael J.},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={120},
+  pages={e2303567120},
+  year={2023},
+  doi={10.1073/pnas.2303567120}
+}
+
+@article{swingle2023placenta,
+  author_role={co},
+  abbr={JACS},
+  bibtex_show={true},
+  title={Ionizable lipid nanoparticles for in vivo mRNA delivery to the placenta during pregnancy},
+  author={Swingle, Kelsey L. and Safford, Hannah C. and Geisler, Hannah C. and Hamilton, Alex G. and Thatte, Ajay S. and Billingsley, Margaret M. and Joseph, Ryann A. and Mrksich, Kaitlin and Padilla, Marshall S. and Ghalsasi, Aditya A. and Alameh, Mohamad-Gabriel and Weissman, Drew and Mitchell, Michael J.},
+  journal={Journal of the American Chemical Society},
+  volume={145},
+  pages={4691--4706},
+  year={2023},
+  doi={10.1021/jacs.2c12893}
+}
+
+@article{bashiri2023corona,
+  author_role={co},
+  abbr={Lab Chip},
+  bibtex_show={true},
+  title={Nanoparticle protein corona: from structure and function to therapeutic targeting},
+  author={Bashiri, Ghazal and Padilla, Marshall S. and Swingle, Kelsey L. and Shepherd, Sarah J. and Mitchell, Michael J. and Wang, Karen},
+  journal={Lab on a Chip},
+  volume={23},
+  pages={1432--1466},
+  year={2023},
+  doi={10.1039/D2LC00799A}
+}
+
+@article{elmayta2023jove,
+  author_role={co},
+  abbr={JoVE},
+  bibtex_show={true},
+  title={Testing the in vitro and in vivo efficiency of mRNA-lipid nanoparticles formulated by microfluidic mixing},
+  author={El-Mayta, Rakan and Padilla, Marshall S. and Billingsley, Margaret M. and Han, Xuexiang and Mitchell, Michael J.},
+  journal={Journal of Visualized Experiments},
+  pages={e64810},
+  year={2023},
+  doi={10.3791/64810}
+}
+
+@article{xue2022bisphosphonate,
+  author_role={co},
+  abbr={JACS},
+  bibtex_show={true},
+  title={Rational design of bisphosphonate lipid-like materials for mRNA delivery to the bone microenvironment},
+  author={Xue, Lulu and Gong, Ningqiang and Shepherd, Sarah J. and Xiong, Xinhong and Liao, Xinyu and Han, Xuexiang and Zhao, Gan and Song, Chunhao and Zhang, Hanwen and Padilla, Marshall S. and Qin, Jianxin and Shi, Yi and Alameh, Mohamad-Gabriel and Pochan, Darrin J. and Wang, Karen and Long, Fei and Weissman, Drew and Mitchell, Michael J.},
+  journal={Journal of the American Chemical Society},
+  volume={144},
+  pages={9926--9937},
+  year={2022},
+  doi={10.1021/jacs.2c02706}
+}
+
+@article{zhang2022antiinflammatory,
+  author_role={co},
+  abbr={J. Biomed. Mater. Res. A},
+  bibtex_show={true},
+  title={Rational design of anti-inflammatory lipid nanoparticles for mRNA delivery},
+  author={Zhang, Hanwen and Han, Xuexiang and Alameh, Mohamad-Gabriel and Shepherd, Sarah J. and Padilla, Marshall S. and Xue, Lulu and Butowska, Kamila and Weissman, Drew and Mitchell, Michael J.},
+  journal={Journal of Biomedical Materials Research Part A},
+  volume={110},
+  pages={1101--1108},
+  year={2022},
+  doi={10.1002/jbm.a.37356}
+}
+
+@article{chatkewitz2018microwave,
+  author_role={co},
+  abbr={Bioorg. Med. Chem. Lett.},
+  bibtex_show={true},
+  title={Investigation of copper-free alkyne/azide 1,3-dipolar cycloadditions using microwave irradiation},
+  author={Chatkewitz, Lindsay E. and Halonski, John F. and Padilla, Marshall S. and Young, Douglas D.},
+  journal={Bioorganic \& Medicinal Chemistry Letters},
+  volume={28},
+  pages={81--84},
+  year={2018},
+  doi={10.1016/j.bmcl.2017.12.007}
+}
+
+@article{lampkowski2014polyynes,
+  author_role={co},
+  abbr={Org. Biomol. Chem.},
+  bibtex_show={true},
+  title={Preparation of asymmetrical polyynes by a solid-supported Glaser-Hay reaction},
+  author={Lampkowski, Jason S. and Durham, Caitlin E. and Padilla, Marshall S. and Young, Douglas D.},
+  journal={Organic \& Biomolecular Chemistry},
+  volume={13},
+  pages={424--427},
+  year={2014},
+  doi={10.1039/C4OB02196G}
 }
