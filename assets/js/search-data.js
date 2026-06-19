@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-join",
           title: "join",
-          description: "The Padilla Lab opens in September 2026. Founding members shape everything — the science, the culture, and the lab itself.",
+          description: "Open positions in the Padilla Lab and how to apply.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/join/";
