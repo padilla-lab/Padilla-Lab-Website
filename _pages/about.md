@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Engineering lipid materials for nucleic acid delivery · Stanford University
+subtitle: Writing the Rules of RNA Nanomedicine · Stanford University
 
 profile:
   align: right
