@@ -1,0 +1,9 @@
+# Social / contact links shown as icons on the homepage and team page.
+# Fill in the ones you want; delete or comment out (with #) the ones you don't.
+email: padilla@stanford.edu # TODO: replace with your real Stanford email
+scholar_userid: # TODO: paste your Google Scholar ID (the string after "user=" in your profile URL)
+orcid_id: # TODO: e.g. 0000-0001-2345-6789
+linkedin_username: # optional
+github_username: # optional
+x_username: # optional
+# rss_icon: true # uncomment if you later start a blog

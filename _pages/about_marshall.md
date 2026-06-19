@@ -1,0 +1,3 @@
+**Marshall S. Padilla, Ph.D.** is an Assistant Professor at Stanford University and the principal investigator of the Padilla Lab. Before joining Stanford, he was a postdoctoral fellow in Bioengineering at the University of Pennsylvania with Prof. Michael J. Mitchell, where his research focused on ionizable lipid design, lipid nanoparticle engineering for mRNA and gene editing delivery, and biophysical characterization of LNPs. His work includes the development of branched endosomal disruptor (BEND) lipids for hepatic gene editing and T cell engineering.
+
+<!-- TODO: add a sentence on your Ph.D. (institution, advisor, topic) and any honors you'd like to highlight. Replace assets/img/prof_pic.jpg with your headshot. -->
