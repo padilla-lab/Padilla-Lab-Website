@@ -10,7 +10,7 @@ profile:
   # uncomment the next line with its filename:
   # image: lab_logo.png
   image_circular: false
-   more_info: >
+  more_info: >
     <p>Department of Materials Science &amp; Engineering</p>
     <p>Sarafan ChEM-H</p>
     <p>Stanford University, Stanford, CA 94305</p>
