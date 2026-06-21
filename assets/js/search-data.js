@@ -11,6 +11,13 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
+          description: "Writing the rules for how to rationally design RNA nanomedicines.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
+        },{id: "nav-research",
+          title: "research",
           description: "We build delivery chemistry for the next generation of nucleic acid medicines.",
           section: "Navigation",
           handler: () => {
@@ -22,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
-          },
-        },{id: "nav-team",
-          title: "team",
-          description: "The Padilla Lab opens in September 2026 — founding member recruitment is underway.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/team/";
           },
         },{id: "nav-join",
           title: "join",
