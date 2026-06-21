@@ -15,5 +15,5 @@ profiles:
     image_circular: false
     more_info: >
       <p>Principal Investigator</p>
-      <p>padilla@stanford.edu</p>
+      <p>mpad@stanford.edu</p>
 ---
