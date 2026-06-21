@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-research",
           title: "research",
-          description: "We build delivery chemistry for the next generation of nucleic acid medicines.",
+          description: "Writing the rules for how to rationally design RNA nanomedicines.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
