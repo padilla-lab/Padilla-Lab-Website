@@ -21,7 +21,7 @@ We use **one application form** for all positions. Choose your level when you ap
 We have **three years of funding** available for a postdoc to start as early as **September 2026**. Strong candidates have a PhD (or will defend soon) in chemistry, chemical/biomedical engineering, materials science, biophysics, or a related field, and a track record of high-impact research and publications. Backgrounds in chemical synthesis, nucleic acid delivery, solution biophysics (SAXS/SANS, AF4-MALS, AUC), immune engineering, and cell engineering are especially relevant, but we value scientific range over an exact match.
 
 **Graduate students.**
-Prospective and current PhD students in Materials Science & Engineering and other PhD programs are welcome to reach out about rotations and projects. Tell us what problems you want to work on. Applicants are strongly encouraged to apply for the Chemistry/Biology Interface (CBI) Training Program (https://chemh-cbi.stanford.edu/). 
+Prospective and current PhD students in Materials Science & Engineering and other PhD programs are welcome to reach out about rotations and projects. Tell us what problems you want to work on. Applicants are strongly encouraged to apply for the [Chemistry/Biology Interface (CBI) Training Program](https://chemh-cbi.stanford.edu/). 
 
 **Undergraduate researchers.**
 We are not currently accepting undergraduate researchers at this point.
