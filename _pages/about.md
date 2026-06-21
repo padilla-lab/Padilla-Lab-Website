@@ -4,27 +4,10 @@ title: about
 permalink: /
 subtitle: Writing the Rules of RNA Nanomedicine · Stanford University
 
-profile:
-  align: right
-  # To show a lab logo or photo here, add the file to assets/img/ and
-  # uncomment the next line with its filename:
-  # image: lab_logo.png
-  image_circular: false
-  more_info: >
-    <p>Department of Materials Science &amp; Engineering</p>
-    <p>Sarafan ChEM-H</p>
-    <p>Stanford University, Stanford, CA 94305</p>
 
 selected_papers: true # shows publications marked selected={true} in papers.bib
 social: true # shows contact icons at the bottom of the page
 
-announcements:
-  enabled: true
-  scrollable: true
-  limit: 5
-
-latest_posts:
-  enabled: false
 ---
 
 The Padilla Lab is writing the rulebook for RNA nanomedicine. We work to uncover the structure–activity relationships that govern RNA nanotechnology, integrating rational synthesis, endosome biology, and high-resolution analytical and biophysical techniques in a single interdisciplinary effort.
