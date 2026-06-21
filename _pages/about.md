@@ -32,3 +32,9 @@ The Padilla Lab is writing the rulebook for RNA nanomedicine. We work to uncover
 Our goal is to establish design rules for cell-specific delivery — turning nanoparticle design from trial-and-error into rational engineering. We apply these principles across a range of therapeutic challenges, including immuno-oncology, oral diseases, protein delivery, crossing the blood–brain barrier, and gene editing.
 
 The lab opens at Stanford University in **September 2026**, and we are recruiting our founding team of Ph.D. students and postdoctoral researchers. If you want to help build a new lab from day one, see [how to join](/join/).
+
+<div class="row justify-content-center mt-4 mb-4">
+  <div class="col-sm-8">
+    {% include video.liquid path="assets/video/lnp.mp4" class="img-fluid rounded z-depth-1" autoplay=true loop=true muted=true controls=true %}
+  </div>
+</div>
