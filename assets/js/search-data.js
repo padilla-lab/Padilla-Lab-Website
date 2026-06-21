@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-research",
-          title: "research",
-          description: "Writing the rules for how to rationally design RNA nanomedicines.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/research/";
-          },
         },{id: "nav-publications",
           title: "publications",
           description: "For a complete and current list, see **Google Scholar**.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-team",
+          title: "team",
+          description: "The Padilla Lab opens in September 2026 — founding member recruitment is underway.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/team/";
           },
         },{id: "nav-join",
           title: "join",
