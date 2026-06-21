@@ -733,13 +733,15 @@ footer.sticky-bottom {
     }
   }
 
-  h2.bibliography {
-    color: var(--global-divider-color);
-    border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
-    margin-top: 2rem;
-    text-align: right;
-  }
+    h2.bibliography {
+       color: var(--global-text-color);
+       font-weight: 600;
+       opacity: 0.7;
+       border-top: 1px solid var(--global-divider-color);
+       padding-top: 1rem;
+       margin-top: 2rem;
+       text-align: right;
+     }
 
   ol.bibliography {
     list-style: none;
