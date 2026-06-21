@@ -13,10 +13,6 @@ nav_order: 2
 
 <div class="publications">
 
-<h2 class="bibliography-section-header">First &amp; Co-First Author</h2>
-{% bibliography --query @*[author_role=first]* %}
-
-<h2 class="bibliography-section-header">Co-Author</h2>
-{% bibliography --query @*[author_role=co]* %}
+{% bibliography %}
 
 </div>
