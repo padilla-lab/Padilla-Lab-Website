@@ -90,42 +90,35 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%70%61%64%69%6C%6C%61@%73%74%61%6E%66%6F%72%64.%65%64%75", "_blank");
+          window.open("mailto:%6D%70%61%64@%73%74%61%6E%66%6F%72%64.%65%64%75", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=", "_blank");
+          window.open("https://scholar.google.com/citations?user=Rjdpb_wAAAAJ", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/", "_blank");
+          window.open("https://orcid.org/0000-0003-3607-790X", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/", "_blank");
+          window.open("https://www.linkedin.com/in/Marshall-Padilla", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/", "_blank");
-        },
-      },{
-        id: 'social-x',
-        title: 'X',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://twitter.com/", "_blank");
+          window.open("https://github.com/padilla-lab", "_blank");
         },
       },{
       id: 'light-theme',
