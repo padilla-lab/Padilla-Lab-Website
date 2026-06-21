@@ -4,14 +4,11 @@
 % =========================================================================
 % PADILLA LAB PUBLICATIONS
 %
-% Each entry has an "author_role" field that controls which section it
-% appears in on the publications page:
-%     author_role={first}  -> "First & Co-First Author" section
-%     author_role={co}     -> "Co-Author" section
+% Publications appear in a single reverse-chronological list, grouped by
+% year (newest first). Ordering is automatic from the "year" field.
 %
-% TO ADD A NEW PAPER: see the step-by-step guide (HOW_TO_ADD_PAPERS.md).
-% In short: get the BibTeX from Google Scholar, paste it below, and add
-% one line: author_role={first} or author_role={co}.
+% TO ADD A NEW PAPER: get the BibTeX from Google Scholar and paste it
+% anywhere below. The list re-sorts by year automatically.
 %
 % Optional fields you can include:
 %   abbr={Nat. Commun.}   -> colored journal badge next to the entry
@@ -26,12 +23,8 @@
 % =========================================================================
 
 
-% =========================================================================
-%  FIRST & CO-FIRST AUTHOR
-% =========================================================================
-
 @article{padilla2025bend,
-  author_role={first},
+  preview={padilla2025bend.png},
   abbr={Nat. Commun.},
   bibtex_show={true},
   selected={true},
@@ -44,8 +37,33 @@
   doi={10.1038/s41467-024-55137-6}
 }
 
+@article{padilla2025biophysical,
+  preview={padilla2025biophysical.png},
+  abbr={Nat. Biotechnol.},
+  bibtex_show={true},
+  selected={true},
+  title={Elucidating lipid nanoparticle properties and structure through biophysical analyses},
+  author={Padilla, Marshall S. and Shepherd, Sarah J. and Hanna, Andrew R. and Kurnik, Martin and Zhang, Xujun and Chen, Michelle and Byrnes, James and Joseph, Ryann A. and Yamagata, Hannah M. and Ricciardi, Adele S. and Mrksich, Kaitlin and Issadore, David and Gupta, Kushol and Mitchell, Michael J.},
+  journal={Nature Biotechnology},
+  note={In press},
+  year={2025},
+  doi={10.1038/s41587-025-02855-x}
+}
+
+@article{padilla2025solutionbiophysics,
+  preview={padilla2025solutionbiophysics.png},
+  abbr={Nat. Biotechnol.},
+  bibtex_show={true},
+  title={Solution biophysics reveals the polydisperse structure of RNA lipid nanoparticles},
+  author={Padilla, Marshall S. and Gupta, Kushol and Mitchell, Michael J.},
+  journal={Nature Biotechnology},
+  note={In press},
+  year={2025},
+  doi={10.1038/s41587-025-02909-0}
+}
+
 @article{kim2024immune,
-  author_role={first},
+  preview={kim2024immune.png},
   abbr={Eur. J. Immunol.},
   bibtex_show={true},
   title={Lipid nanoparticle-mediated RNA delivery for immune cell modulation},
@@ -58,7 +76,7 @@
 }
 
 @article{mrksich2024endosome,
-  author_role={first},
+  preview={mrksich2024endosome.png},
   abbr={Adv. Drug Deliv. Rev.},
   bibtex_show={true},
   selected={true},
@@ -72,7 +90,7 @@
 }
 
 @article{padilla2024ionicliquid,
-  author_role={first},
+  preview={padilla2024ionicliquid.png},
   abbr={J. Mol. Liq.},
   bibtex_show={true},
   title={Probing ionic liquid toxicity through biophysical and computational methods},
@@ -85,7 +103,7 @@
 }
 
 @article{padilla2023mct,
-  author_role={first},
+  preview={padilla2023mct.png},
   abbr={J. Pharm. Sci.},
   bibtex_show={true},
   title={MCT nanoemulsions for the efficient delivery of siRNA},
@@ -98,7 +116,7 @@
 }
 
 @article{padilla2021gemini,
-  author_role={first},
+  preview={padilla2021gemini.png},
   abbr={Green Chem.},
   bibtex_show={true},
   title={Expanding the structural diversity of hydrophobic ionic liquids: physicochemical properties and toxicity of Gemini ionic liquids},
@@ -111,7 +129,7 @@
 }
 
 @article{padilla2016tyrosine,
-  author_role={first},
+  preview={padilla2016tyrosine.png},
   abbr={Tetrahedron Lett.},
   bibtex_show={true},
   title={Synthesis and incorporation of a caged tyrosine amino acid possessing a bioorthogonal handle},
@@ -124,7 +142,7 @@
 }
 
 @article{padilla2015azobenzene,
-  author_role={first},
+  preview={padilla2015azobenzene.png},
   abbr={Bioorg. Med. Chem. Lett.},
   bibtex_show={true},
   title={Photosensitive GFP mutants containing an azobenzene unnatural amino acid},
@@ -137,12 +155,20 @@
 }
 
 
-% =========================================================================
-%  CO-AUTHOR
-% =========================================================================
+@article{geisler2026protocols,
+  preview={geisler2026protocols.png},
+  abbr={Nat. Protoc.},
+  bibtex_show={true},
+  title={Preparation of targeted lipid nanoparticles for precision nucleic acid delivery},
+  author={Geisler, Hannah C. and Battistini, Elisa and Thatte, Ajay S. and Padilla, Marshall S. and Mitchell, Michael J.},
+  journal={Nature Protocols},
+  note={In press},
+  year={2026},
+  doi={10.1038/s41596-025-01330-w}
+}
 
 @article{yamagata2026arolnp,
-  author_role={co},
+  preview={yamagata2026arolnp.png},
   abbr={JACS},
   bibtex_show={true},
   title={Aromatic mRNA lipid nanoparticle (aroLNP) platform confers lymph node tropism and vaccine protection with reduced liver delivery},
@@ -155,7 +181,7 @@
 }
 
 @article{hanna2026microfluidic,
-  author_role={co},
+  preview={hanna2026microfluidic.png},
   abbr={ACS Nano},
   bibtex_show={true},
   title={Automated and parallelized microfluidic generation of large and precisely-defined lipid nanoparticle libraries},
@@ -168,7 +194,7 @@
 }
 
 @article{joseph2025cas9,
-  author_role={co},
+  preview={joseph2025cas9.png},
   abbr={Nano Lett.},
   bibtex_show={true},
   title={Cas9 protein enhances lipid nanoparticle-mediated CFTR repair compared to mRNA},
@@ -181,7 +207,7 @@
 }
 
 @article{haley2025lung,
-  author_role={co},
+  preview={haley2025lung.png},
   abbr={ACS Nano},
   bibtex_show={true},
   title={Lipid nanoparticles for in vivo lung delivery of CRISPR-Cas9 ribonucleoproteins allow gene editing of clinical targets},
@@ -194,7 +220,7 @@
 }
 
 @article{han2024brain,
-  author_role={co},
+  preview={han2024brain.png},
   abbr={Nano Lett.},
   bibtex_show={true},
   title={Peptide-functionalized lipid nanoparticles for targeted systemic mRNA delivery to the brain},
@@ -207,7 +233,7 @@
 }
 
 @article{han2024amidine,
-  author_role={co},
+  preview={han2024amidine.png},
   abbr={Nat. Chem.},
   bibtex_show={true},
   title={Fast and facile synthesis of amidine-incorporated degradable lipids for versatile mRNA delivery in vivo},
@@ -220,7 +246,7 @@
 }
 
 @article{han2024bbb,
-  author_role={co},
+  preview={han2024bbb.png},
   abbr={Nano Lett.},
   bibtex_show={true},
   title={Predictive high-throughput platform for dual screening of mRNA lipid nanoparticle blood-brain barrier transfection and crossing},
@@ -233,7 +259,7 @@
 }
 
 @article{metzloff2024apc,
-  author_role={co},
+  preview={metzloff2024apc.png},
   abbr={Adv. Mater.},
   bibtex_show={true},
   title={Antigen presenting cell mimetic lipid nanoparticles for rapid mRNA CAR T cell cancer immunotherapy},
@@ -246,7 +272,7 @@
 }
 
 @article{mrksich2024taillength,
-  author_role={co},
+  preview={mrksich2024taillength.png},
   abbr={J. Biomed. Mater. Res. A},
   bibtex_show={true},
   title={Influence of ionizable lipid tail length on lipid nanoparticle delivery of mRNA of varying length},
@@ -259,7 +285,7 @@
 }
 
 @article{geisler2024egfr,
-  author_role={co},
+  preview={geisler2024egfr.png},
   abbr={J. Control. Release},
   bibtex_show={true},
   title={EGFR-targeted ionizable lipid nanoparticles enhance in vivo mRNA delivery to the placenta},
@@ -272,7 +298,7 @@
 }
 
 @article{mukalel2024oxidized,
-  author_role={co},
+  preview={mukalel2024oxidized.png},
   abbr={Adv. Funct. Mater.},
   bibtex_show={true},
   title={Oxidized mRNA lipid nanoparticles for in situ chimeric antigen receptor monocyte engineering},
@@ -285,7 +311,7 @@
 }
 
 @article{haley2023ras,
-  author_role={co},
+  preview={haley2023ras.png},
   abbr={ACS Appl. Mater. Interfaces},
   bibtex_show={true},
   title={Lipid nanoparticle delivery of small proteins for potent in vivo RAS inhibition},
@@ -298,7 +324,7 @@
 }
 
 @article{prazeres2023plasmid,
-  author_role={co},
+  preview={prazeres2023plasmid.png},
   abbr={Int. J. Nanomedicine},
   bibtex_show={true},
   title={Delivery of plasmid DNA by ionizable lipid nanoparticles to induce CAR expression in T cells},
@@ -311,7 +337,7 @@
 }
 
 @article{shepherd2023vaccine,
-  author_role={co},
+  preview={shepherd2023vaccine.png},
   abbr={PNAS},
   bibtex_show={true},
   title={Throughput-scalable manufacturing of SARS-CoV-2 mRNA lipid nanoparticle vaccines},
@@ -324,7 +350,7 @@
 }
 
 @article{swingle2023placenta,
-  author_role={co},
+  preview={swingle2023placenta.png},
   abbr={JACS},
   bibtex_show={true},
   title={Ionizable lipid nanoparticles for in vivo mRNA delivery to the placenta during pregnancy},
@@ -337,7 +363,7 @@
 }
 
 @article{bashiri2023corona,
-  author_role={co},
+  preview={bashiri2023corona.png},
   abbr={Lab Chip},
   bibtex_show={true},
   title={Nanoparticle protein corona: from structure and function to therapeutic targeting},
@@ -350,7 +376,7 @@
 }
 
 @article{elmayta2023jove,
-  author_role={co},
+  preview={elmayta2023jove.png},
   abbr={JoVE},
   bibtex_show={true},
   title={Testing the in vitro and in vivo efficiency of mRNA-lipid nanoparticles formulated by microfluidic mixing},
@@ -362,7 +388,7 @@
 }
 
 @article{xue2022bisphosphonate,
-  author_role={co},
+  preview={xue2022bisphosphonate.png},
   abbr={JACS},
   bibtex_show={true},
   title={Rational design of bisphosphonate lipid-like materials for mRNA delivery to the bone microenvironment},
@@ -375,7 +401,7 @@
 }
 
 @article{zhang2022antiinflammatory,
-  author_role={co},
+  preview={zhang2022antiinflammatory.png},
   abbr={J. Biomed. Mater. Res. A},
   bibtex_show={true},
   title={Rational design of anti-inflammatory lipid nanoparticles for mRNA delivery},
@@ -388,7 +414,7 @@
 }
 
 @article{chatkewitz2018microwave,
-  author_role={co},
+  preview={chatkewitz2018microwave.png},
   abbr={Bioorg. Med. Chem. Lett.},
   bibtex_show={true},
   title={Investigation of copper-free alkyne/azide 1,3-dipolar cycloadditions using microwave irradiation},
@@ -401,7 +427,7 @@
 }
 
 @article{lampkowski2014polyynes,
-  author_role={co},
+  preview={lampkowski2014polyynes.png},
   abbr={Org. Biomol. Chem.},
   bibtex_show={true},
   title={Preparation of asymmetrical polyynes by a solid-supported Glaser-Hay reaction},
