@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: Writing the rules for how to rationally design RNA nanomedicines.
+description:
 nav: true
 nav_order: 1
 ---
