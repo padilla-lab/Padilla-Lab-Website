@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "Writing the rules for how to rationally design RNA nanomedicines.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
