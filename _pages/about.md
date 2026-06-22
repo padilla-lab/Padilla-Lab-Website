@@ -10,7 +10,7 @@ social: true # shows contact icons at the bottom of the page
 
 ---
 
-The Padilla Lab is writing the rulebook for RNA nanomedicine. We work to uncover the structure–activity relationships that govern RNA nanotechnology, integrating rational synthesis, endosome biology, and high-resolution analytical and biophysical techniques in a single interdisciplinary effort.
+In the Padilla Lab, we work to uncover the structure–activity relationships that govern RNA nanotechnology, integrating rational synthesis, endosome biology, and high-resolution analytical and biophysical techniques in a single interdisciplinary effort.
 
 Our goal is to establish design rules for cell-specific delivery — turning nanoparticle design from trial-and-error into rational engineering. We apply these principles across a range of therapeutic challenges, including immuno-oncology, oral diseases, protein delivery, crossing the blood–brain barrier, and gene editing.
 
