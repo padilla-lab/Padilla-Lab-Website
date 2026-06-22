@@ -8,7 +8,6 @@ nav_order: 1
 ---
 
 <!-- _pages/projects.md  (Research page) -->
-
 The central bottleneck in modern medicine is not designing a drug — it is delivering that drug safely and precisely to the right place in the body. Our lab builds the chemistry and the design rules to solve that problem for nucleic acid medicines like mRNA and gene editors. We synthesize new materials, engineer nanoparticle delivery systems, and pair them with high-resolution analytical tools to understand *why* a given particle goes where it goes, turning nanoparticle design from trial-and-error into rational engineering.
 
 Our program spans three connected goals, unified by a common toolbox of synthesis, biophysics, and data-driven analysis.
