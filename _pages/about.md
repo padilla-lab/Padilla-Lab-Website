@@ -19,5 +19,8 @@ The lab opens at Stanford University in **September 2026**, and we are recruitin
 <div class="row justify-content-center mt-4 mb-4">
   <div class="col-sm-8">
     {% include video.liquid path="assets/video/lnp.mp4" class="img-fluid rounded z-depth-1" autoplay=true loop=true muted=true controls=true %}
+    <div class="caption">
+      Three-dimensional electron-density reconstruction of an mRNA lipid nanoparticle from small-angle X-ray scattering. Adapted from Padilla et al., <em>Nature Biotechnology</em> (2025).
+    </div>
   </div>
 </div>
