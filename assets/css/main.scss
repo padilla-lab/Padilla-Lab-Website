@@ -56,3 +56,15 @@ body::after  { right: 0; }
   body::before,
   body::after { display: none; }
 }
+
+/* ============================================================
+   Team page: fix the monospace font under profile photos
+   (the "Principal Investigator / email" info box). Override the
+   theme's default monospace with the site's normal font.
+   ============================================================ */
+.profile .more-info,
+.profile .address,
+.profile .address p {
+  font-family: inherit;
+  font-size: 1rem;
+}
