@@ -68,3 +68,16 @@ body::after  { right: 0; }
   font-family: inherit;
   font-size: 1rem;
 }
+
+/* ============================================================
+   Remove the underline under the highlighted author name
+   (your name) in the publications list. Keeps the bold.
+   ============================================================ */
+.publications .bibliography .author strong,
+.bibliography .author strong,
+.bibliography strong,
+.publications .author u,
+.bibliography .author u {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
