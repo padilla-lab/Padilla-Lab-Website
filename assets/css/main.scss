@@ -41,17 +41,21 @@ $max-content-width: {{ site.max_width }};
   font-size: 1rem;
 }
 
-/* ============================================================
-   Remove the underline under the highlighted author name
-   (your name) in the publications list. Keeps the bold.
-   ============================================================ */
-.publications .bibliography .author strong,
-.bibliography .author strong,
-.bibliography strong,
-.publications .author u,
-.bibliography .author u {
-  text-decoration: none !important;
+/* --- Publications: rose accents + my name bold, no underline --- */
+.bibliography .links a.btn {
+  color: var(--global-theme-color) !important;
+  border-color: var(--global-theme-color) !important;
+}
+.bibliography .links a.btn:hover {
+  color: var(--global-hover-color) !important;
+  border-color: var(--global-hover-color) !important;
+}
+.bibliography .periodical em {
+  color: var(--global-theme-color) !important;
+}
+.bibliography .author em {
   border-bottom: none !important;
+  font-weight: 700 !important;
 }
 
 /* ============================================================
