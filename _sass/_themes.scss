@@ -4,31 +4,32 @@
 
 @use "sass:color";
 
+/* ==========================================================================
+   PADILLA LAB CUSTOM PALETTE
+   Light mode:  teal background (#AED3D6), pine text (#283F3B), rose accent (#B84A60)
+   Dark mode:   pine background (#283F3B), cream text (#E8EEEC), light-rose accent (#E88A9B)
+   ========================================================================== */
+
 :root {
   color-scheme: light;
-  --global-bg-color: #{$white-color};
-  --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #{$black-color};
-  --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$purple-color};
-  --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #{$grey-color-dark};
-  --global-footer-text-color: #{$grey-color-light};
-  --global-footer-link-color: #{$white-color};
-  --global-distill-app-color: #{$grey-color};
-  --global-divider-color: rgba(0, 0, 0, 0.1);
-  --global-card-bg-color: #{$white-color};
-  --global-highlight-color: #{$red-color-dark};
-  --global-back-to-top-bg-color: rgba(
-    #{color.channel($black-color, "red", $space: rgb)},
-    #{color.channel($black-color, "green", $space: rgb)},
-    #{color.channel($black-color, "blue", $space: rgb)},
-    0.4
-  );
-  --global-back-to-top-text-color: #{$white-color};
-  --global-newsletter-bg-color: #{$white-color};
-  --global-newsletter-text-color: #{$black-color};
+  --global-bg-color: #aed3d6; /* teal */
+  --global-code-bg-color: rgba(40, 63, 59, 0.06);
+  --global-text-color: #283f3b; /* pine */
+  --global-text-color-light: #547068; /* muted pine for secondary text */
+  --global-theme-color: #b84a60; /* dark rose accent */
+  --global-hover-color: #da667b; /* brighter rose on hover */
+  --global-hover-text-color: #ffffff;
+  --global-footer-bg-color: #283f3b; /* pine footer */
+  --global-footer-text-color: #aed3d6; /* teal text on footer */
+  --global-footer-link-color: #ffffff;
+  --global-distill-app-color: #547068;
+  --global-divider-color: rgba(40, 63, 59, 0.15);
+  --global-card-bg-color: #c4dee0; /* slightly lighter teal for cards */
+  --global-highlight-color: #b84a60;
+  --global-back-to-top-bg-color: rgba(40, 63, 59, 0.5);
+  --global-back-to-top-text-color: #ffffff;
+  --global-newsletter-bg-color: #c4dee0;
+  --global-newsletter-text-color: #283f3b;
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
@@ -78,28 +79,23 @@
 
 html[data-theme="dark"] {
   color-scheme: dark;
-  --global-bg-color: #{$grey-color-dark};
-  --global-code-bg-color: #{$code-bg-color-dark};
-  --global-text-color: #{$grey-color-light};
-  --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$cyan-color};
-  --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #{$grey-color-light};
-  --global-footer-text-color: #{$grey-color-dark};
-  --global-footer-link-color: #{$black-color};
-  --global-distill-app-color: #{$grey-color-light};
-  --global-divider-color: #424246;
-  --global-card-bg-color: #{$grey-900};
-  --global-back-to-top-bg-color: rgba(
-    #{color.channel($white-color, "red", $space: rgb)},
-    #{color.channel($white-color, "green", $space: rgb)},
-    #{color.channel($white-color, "blue", $space: rgb)},
-    0.5
-  );
-  --global-back-to-top-text-color: #{$black-color};
-  --global-newsletter-bg-color: #{$grey-color-light};
-  --global-newsletter-text-color: #{$grey-color-dark};
+  --global-bg-color: #283f3b; /* pine background */
+  --global-code-bg-color: rgba(174, 211, 214, 0.08);
+  --global-text-color: #e8eeec; /* cream text */
+  --global-text-color-light: #aed3d6; /* teal for secondary text */
+  --global-theme-color: #e88a9b; /* lighter rose accent for dark bg */
+  --global-hover-color: #da667b; /* rose on hover */
+  --global-hover-text-color: #283f3b;
+  --global-footer-bg-color: #1e302d; /* deeper pine footer */
+  --global-footer-text-color: #aed3d6;
+  --global-footer-link-color: #ffffff;
+  --global-distill-app-color: #aed3d6;
+  --global-divider-color: rgba(174, 211, 214, 0.18);
+  --global-card-bg-color: #32504b; /* lighter pine for cards */
+  --global-back-to-top-bg-color: rgba(174, 211, 214, 0.5);
+  --global-back-to-top-text-color: #283f3b;
+  --global-newsletter-bg-color: #32504b;
+  --global-newsletter-text-color: #e8eeec;
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #215d42;
