@@ -7,7 +7,7 @@ social: true # shows contact icons at the bottom of the page
 ---
 
 <div class="hero-statement" markdown="0">
-<p class="hero-eyebrow">Stanford University &middot; Materials Science &amp; Engineering</p>
+<p class="hero-eyebrow">Stanford University &middot; Materials Science &amp; Engineering &middot; Sarafan ChEM-H</p>
 <p class="hero-lead">We&rsquo;re writing the rules of <span class="hero-accent">RNA nanomedicine</span>.</p>
 <p class="hero-sub">Turning nanoparticle design from trial-and-error into rational engineering &mdash; so that medicines reach exactly the cells that need them.</p>
 </div>
