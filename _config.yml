@@ -6,8 +6,7 @@ title: Padilla Lab # the website title (if blank, full name will be used instead
 first_name: Marshall
 middle_name: S.
 last_name: Padilla
-contact_note: >
-  Email is the best way to reach us.
+
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The Padilla Lab at Stanford University engineers ionizable lipids, lipid nanoparticles, and ionic liquid-based materials for the delivery of mRNA and gene editing therapeutics.
 footer_text: >
