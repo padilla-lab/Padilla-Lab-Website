@@ -6,6 +6,9 @@
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
+// Google Fonts — Cormorant Garamond (headings) + Inter (body)
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,500&family=Inter:wght@300;400;500;600;700&display=swap');
+
 @import
   "variables",
   "themes",
@@ -82,7 +85,6 @@ body::after  { right: 0; }
    Headings: Cormorant Garamond, ALL CAPS, letter-spaced
    Body:     Inter
    ============================================================ */
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,500&family=Inter:wght@300;400;500;600;700&display=swap');
 
 /* --- Body text: Inter --- */
 body {
