@@ -236,3 +236,39 @@ h3 { font-size: 1.5rem; }
     grid-template-columns: 1fr;
   }
 }
+
+/* ============================================================
+   HOMEPAGE: hide the big page title + subtitle (Stage 3)
+   The site name now lives in the nav bar (top-left), so the
+   large "PADILLA LAB" title on the homepage is redundant.
+   This hides it ONLY on the about/home page; other pages keep
+   their titles, and the browser tab title is unaffected.
+   ============================================================ */
+.profile-name,
+#about-title,
+.post-title.about-title {
+  display: none;
+}
+
+/* al-folio renders the about-page heading in an <h1> inside the
+   about layout; hide that specific homepage title. If the above
+   selectors don't catch it, this targets the about layout's header. */
+body.about h1:first-of-type,
+.about .post-header,
+.about > h1 {
+  display: none;
+}
+
+/* ============================================================
+   HERO EYEBROW — small kicker line above the hero statement
+   ============================================================ */
+.hero-eyebrow {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.8rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--global-theme-color);
+  margin-bottom: 1rem;
+  opacity: 0.9;
+}
