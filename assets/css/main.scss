@@ -55,7 +55,6 @@ $max-content-width: {{ site.max_width }};
 }
 .bibliography .author em {
   border-bottom: none !important;
-  font-weight: 700 !important;
 }
 
 /* ============================================================
@@ -121,7 +120,7 @@ h3 { font-size: 1.5rem; }
 
 .hero-lead {
   font-family: 'Cormorant Garamond', Georgia, serif;
-  font-size: 3rem;
+  font-size: 3.75rem;
   line-height: 1.1;
   font-weight: 600;
   margin-bottom: 0.75rem;
