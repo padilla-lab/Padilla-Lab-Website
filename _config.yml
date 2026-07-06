@@ -10,7 +10,7 @@ last_name: Padilla
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The Padilla Lab at Stanford University engineers ionizable lipids, lipid nanoparticles, and ionic liquid-based materials for the delivery of mRNA and gene editing therapeutics.
 footer_text: >
-  &copy; Padilla Lab, Stanford University. Built with <a href="https://github.com/alshedivat/al-folio">al-folio</a> and hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Built with <a href="https://github.com/alshedivat/al-folio">al-folio</a> and hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: lipid nanoparticles, ionizable lipids, mRNA delivery, gene editing, CRISPR delivery, ionic liquids, drug delivery, nanomedicine, Stanford, Padilla Lab
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧬 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
