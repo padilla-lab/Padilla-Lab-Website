@@ -23,7 +23,7 @@ We have **three years of funding** available for a postdoc to start as early as 
 **Graduate students.**
 Prospective and current PhD students in Materials Science & Engineering and other Stanford PhD programs are welcome to reach out about rotations and projects — tell us what problems you want to work on.
 
-A note on how joining works: students come into the lab through Stanford's admissions, not by direct match. You'll first need to be admitted to a Stanford PhD program, then contact us once you're here — so the strongest first step is applying to the program that best fits your interests. Once admitted, we strongly encourage incoming students to apply to the [Chemistry/Biology Interface (CBI) Training Program](https://chemh-cbi.stanford.edu/), which supports interdisciplinary trainees across chemistry, engineering, and the biosciences.
+A note on how joining works: students come into the lab through Stanford's admissions, not by direct match. You'll first need to be admitted to a Stanford PhD program, then contact us once you're here — so the strongest first step is applying to the program that best fits your interests. Once admitted, we encourage incoming students to apply to the **[Chemistry/Biology Interface (CBI) Training Program](https://chemh-cbi.stanford.edu/)**, which supports interdisciplinary trainees across chemistry, engineering, and the biosciences.
 
 **Undergraduate researchers.**
 Undergraduates are welcome to contact the lab beginning in 2027. 
