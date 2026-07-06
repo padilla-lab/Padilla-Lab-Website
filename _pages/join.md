@@ -7,7 +7,7 @@ permalink: /join/
 description: 
 ---
 
-The Padilla Lab is recruiting at the graduate and postdoctoral level. We are an interdisciplinary lab that utilizes a range of tools to study and advance RNA nanomedicine. A typical Padilla Lab member will spend their time synthesizing novel molecules, formulating nanoparticles, employing advanced characterization methods, performing cellular assays, and testing their creations in vivo - sometimes all in the same week!
+The Padilla Lab is recruiting at the graduate and postdoctoral level. We are an interdisciplinary lab that utilizes a range of tools to study and advance RNA nanomedicine. A typical Padilla Lab member will spend their time synthesizing novel molecules, formulating nanoparticles, employing advanced characterization methods, performing cellular assays, and testing their creations in vivo — sometimes all in the same week!
 
 If that range excites you, we want to hear from you.
 
