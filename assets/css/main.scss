@@ -293,7 +293,7 @@ body.about h1:first-of-type,
   position: static;
   margin: 0.75rem 0 0;
 }
-.figure-carousel .carousel-indicators [data-bs-target] {
+.figure-carousel .carousel-indicators li {
   width: 9px; height: 9px; border-radius: 50%;
   background-color: var(--global-text-color);
 }
