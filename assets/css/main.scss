@@ -297,3 +297,5 @@ body.about h1:first-of-type,
   width: 9px; height: 9px; border-radius: 50%;
   background-color: var(--global-text-color);
 }
+
+.caption em { color: inherit; }
