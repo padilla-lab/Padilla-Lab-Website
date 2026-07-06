@@ -57,6 +57,25 @@ $max-content-width: {{ site.max_width }};
   border-bottom: none !important;
 }
 
+/* Soft grey hairline between individual manuscripts */
+.bibliography li {
+  padding-bottom: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid var(--global-divider-color);
+}
+.bibliography li:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+}
+
+/* Dark-green divider between year groups (recolors the line your year headings already have; none above the first year) */
+.publications h2.bibliography {
+  border-top-color: var(--global-text-color);
+}
+.publications h2.bibliography:first-of-type {
+  border-top: none;
+}
+
 /* ============================================================
    PADILLA LAB TYPOGRAPHY  (Stage 2)
    Headings: Cormorant Garamond, ALL CAPS, letter-spaced
