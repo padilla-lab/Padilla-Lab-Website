@@ -51,7 +51,7 @@ $max-content-width: {{ site.max_width }};
   border-color: var(--global-text-color-light) !important;
 }
 .bibliography .periodical em {
-  color: var(--global-theme-color) !important;
+  color: var(--global-text-color) !important;
 }
 .bibliography .author em {
   border-bottom: none !important;
@@ -324,5 +324,10 @@ body.about h1:first-of-type,
   font-weight: 700 !important;
 }
 .navbar-nav .nav-item.active > .nav-link {
+  font-weight: 700 !important;
+}
+
+.bibliography .title {
+  color: var(--global-theme-color) !important;
   font-weight: 700 !important;
 }
