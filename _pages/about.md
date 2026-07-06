@@ -13,8 +13,7 @@ social: true # shows contact icons at the bottom of the page
 </div>
 
 <div class="intro-card" markdown="0">
-<p>In the Padilla Lab, we work to uncover the structure–activity relationships that govern RNA nanotechnology, integrating rational synthesis, endosome biology, and high-resolution analytical and biophysical techniques in a single interdisciplinary effort.</p>
-<p>Our goal is to establish design rules for cell-specific delivery — turning nanoparticle design from trial-and-error into rational engineering. We apply these principles across a range of therapeutic challenges, including immuno-oncology, oral diseases, protein delivery, crossing the blood–brain barrier, and gene editing.</p>
+<p>In the Padilla Lab, we work to uncover the structure–activity relationships that govern RNA nanotechnology, integrating rational synthesis, endosome biology, and high-resolution analytical and biophysical techniques in a single interdisciplinary effort. We apply these principles across a range of therapeutic challenges, including immuno-oncology, oral diseases, protein delivery, crossing the blood–brain barrier, and gene editing.</p>
 <p>The lab opens at Stanford University in <strong>September 2026</strong>, and we are recruiting our founding team of Ph.D. students and postdoctoral researchers. If you want to help build a new lab from day one, see <a href="/join/">how to join</a>.</p>
 </div>
 
