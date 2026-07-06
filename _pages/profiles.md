@@ -15,6 +15,7 @@ profiles:
     image_circular: false
     more_info: >
       <p>Principal Investigator</p>
-      <p>mpad@stanford.edu</p>
+      <p><a href="mailto:mpad@stanford.edu">mpad@stanford.edu</a></p>
+
 ---
 
