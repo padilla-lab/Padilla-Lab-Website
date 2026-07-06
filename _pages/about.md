@@ -18,28 +18,22 @@ social: true # shows contact icons at the bottom of the page
 <p>The lab opens at Stanford University in <strong>September 2026</strong>, and we are recruiting our founding team of Ph.D. students and postdoctoral researchers. If you want to help build a new lab from day one, see <a href="/join/">how to join</a>.</p>
 </div>
 
-<div class="row justify-content-center mt-4 mb-4">
+<div class="row justify-content-center mt-4 mb-4" markdown="0">
   <div class="col-sm-8">
     <div style="background: #ffffff; padding: 20px; border-radius: 12px; box-shadow: 0 4px 14px rgba(40,63,59,0.15);">
       <div id="figureCarousel" class="carousel slide figure-carousel" data-bs-ride="carousel" data-bs-interval="6000">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            {% include video.liquid path="assets/video/lnp.mp4" class="img-fluid rounded" autoplay=true loop=true muted=true controls=true %}
-            <div class="caption" style="margin-top: 12px; margin-bottom: 0; color: #547068;">
-              Three-dimensional electron-density reconstruction of an mRNA lipid nanoparticle from small-angle X-ray scattering. Adapted from Padilla et al., <em>Nature Biotechnology</em> (2025).
-            </div>
+            <a href="https://doi.org/10.1038/s41587-025-02855-x" target="_blank" rel="noopener" title="View the paper" class="fig-link">{% include video.liquid path="assets/video/lnp.mp4" class="img-fluid rounded d-block w-100" autoplay=true loop=true muted=true %}</a>
+            <div class="caption" style="margin-top: 12px; margin-bottom: 0; color: #547068;">Three-dimensional electron-density reconstruction of an mRNA lipid nanoparticle from small-angle X-ray scattering. Adapted from Padilla et al., <em>Nature Biotechnology</em> (2025).</div>
           </div>
           <div class="carousel-item">
-            <img src="{{ '/assets/img/cryo-tem.jpg' | relative_url }}" class="img-fluid rounded d-block w-100" alt="Cryo-TEM of lipid nanoparticles">
-            <div class="caption" style="margin-top: 12px; margin-bottom: 0; color: #547068;">
-              [Your Cryo-TEM caption here.]
-            </div>
+            <img src="{{ '/assets/img/cryo-tem.jpg' | relative_url }}" class="img-fluid rounded d-block w-100" alt="Cryo-TEM of a lipid nanoparticle co-encapsulating mRNA and a small-molecule chemotherapeutic">
+            <div class="caption" style="margin-top: 12px; margin-bottom: 0; color: #547068;">Cryogenic transmission electron microscopy image of a lipid nanoparticle co-encapsulating mRNA and a small-molecule chemotherapeutic. Adapted from Padilla et al., <em>Advanced Materials</em> (accepted).</div>
           </div>
           <div class="carousel-item">
-            <img src="{{ '/assets/img/md-sim.jpg' | relative_url }}" class="img-fluid rounded d-block w-100" alt="MD simulation snapshot">
-            <div class="caption" style="margin-top: 12px; margin-bottom: 0; color: #547068;">
-              [Your MD simulation caption here.]
-            </div>
+            <a href="https://doi.org/10.1038/s41467-024-55137-6" target="_blank" rel="noopener" title="View the paper" class="fig-link"><img src="{{ '/assets/img/md-sim.jpg' | relative_url }}" class="img-fluid rounded d-block w-100" alt="Atomistic molecular dynamics simulation of a BEND lipid entering an endosomal bilayer"></a>
+            <div class="caption" style="margin-top: 12px; margin-bottom: 0; color: #547068;">Snapshot from an atomistic molecular dynamics simulation of a BEND lipid entering an endosomal bilayer. Adapted from Padilla et al., <em>Nature Communications</em> (2025).</div>
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#figureCarousel" data-bs-slide="prev"><span class="carousel-control-prev-icon"></span></button>
