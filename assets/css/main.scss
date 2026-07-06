@@ -283,3 +283,17 @@ body.about h1:first-of-type,
   box-shadow: 0 2px 14px rgba(40, 63, 59, 0.06);
 }
 .intro-card p:last-child { margin-bottom: 0; }
+
+/* Figure carousel — dark controls/dots so they show on the white card */
+.figure-carousel .carousel-control-prev-icon,
+.figure-carousel .carousel-control-next-icon {
+  filter: invert(1) grayscale(100%);
+}
+.figure-carousel .carousel-indicators {
+  position: static;
+  margin: 0.75rem 0 0;
+}
+.figure-carousel .carousel-indicators [data-bs-target] {
+  width: 9px; height: 9px; border-radius: 50%;
+  background-color: var(--global-text-color);
+}
