@@ -299,3 +299,10 @@ body.about h1:first-of-type,
 }
 
 .caption em { color: inherit; }
+
+/* Clickable figures — subtle hover cue */
+.fig-link { display: block; }
+.fig-link img,
+.fig-link video { transition: opacity 0.15s ease; cursor: pointer; }
+.fig-link:hover img,
+.fig-link:hover video { opacity: 0.9; }
