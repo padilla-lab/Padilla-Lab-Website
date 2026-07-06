@@ -76,6 +76,10 @@ $max-content-width: {{ site.max_width }};
   border-top: none;
 }
 
+.bibliography .abbr .badge {
+  display: none !important;
+}
+
 /* ============================================================
    PADILLA LAB TYPOGRAPHY  (Stage 2)
    Headings: Cormorant Garamond, ALL CAPS, letter-spaced
