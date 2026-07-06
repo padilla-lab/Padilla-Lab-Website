@@ -43,12 +43,12 @@ $max-content-width: {{ site.max_width }};
 
 /* --- Publications: rose accents + my name bold, no underline --- */
 .bibliography .links a.btn {
-  color: var(--global-theme-color) !important;
-  border-color: var(--global-theme-color) !important;
+  color: var(--global-text-color) !important;
+  border-color: var(--global-text-color) !important;
 }
 .bibliography .links a.btn:hover {
-  color: var(--global-hover-color) !important;
-  border-color: var(--global-hover-color) !important;
+  color: var(--global-text-color-light) !important;
+  border-color: var(--global-text-color-light) !important;
 }
 .bibliography .periodical em {
   color: var(--global-theme-color) !important;
@@ -306,3 +306,23 @@ body.about h1:first-of-type,
 .fig-link video { transition: opacity 0.15s ease; cursor: pointer; }
 .fig-link:hover img,
 .fig-link:hover video { opacity: 0.9; }
+
+/* Bold the rose accent text */
+.hero-eyebrow,
+.hero-accent,
+.explore-go,
+.bibliography .periodical em {
+  font-weight: 700;
+}
+
+.navbar-brand .brand-padilla {
+  color: var(--global-theme-color);
+}
+
+/* Bold the wordmark + the active nav tab */
+.navbar-brand {
+  font-weight: 700 !important;
+}
+.navbar-nav .nav-item.active > .nav-link {
+  font-weight: 700 !important;
+}
