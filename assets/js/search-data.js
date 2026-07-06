@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-join",
           title: "join",
-          description: "Open positions in the Padilla Lab and how to apply.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/join/";
