@@ -4,7 +4,7 @@ title: join
 nav: true
 nav_order: 5
 permalink: /join/
-description: Open positions in the Padilla Lab and how to apply.
+description: 
 ---
 
 The Padilla Lab is recruiting at the graduate and postdoctoral level. We are an interdisciplinary lab that utilizes a range of tools to study and advance RNA nanomedicine. A typical Padilla Lab member will spend their time synthesizing novel molecules, formulating nanoparticles, employing advanced characterization methods, performing cellular assays, and testing their creations in vivo - sometimes all in the same week!
@@ -21,10 +21,12 @@ We use **one application form** for all positions. Choose your level when you ap
 We have **three years of funding** available for a postdoc to start as early as **September 2026**. Strong candidates have a PhD (or will defend soon) in chemistry, chemical/biomedical engineering, materials science, biophysics, or a related field, and a track record of high-impact research and publications. Backgrounds in chemical synthesis, nucleic acid delivery, solution biophysics (SAXS/SANS, AF4-MALS, AUC), immune engineering, and cell engineering are especially relevant, but we value scientific range over an exact match.
 
 **Graduate students.**
-Prospective and current PhD students in Materials Science & Engineering and other PhD programs are welcome to reach out about rotations and projects. Tell us what problems you want to work on. Applicants are strongly encouraged to apply for the [Chemistry/Biology Interface (CBI) Training Program](https://chemh-cbi.stanford.edu/). 
+Prospective and current PhD students in Materials Science & Engineering and other Stanford PhD programs are welcome to reach out about rotations and projects — tell us what problems you want to work on.
+
+A note on how joining works: students come into the lab through Stanford's admissions, not by direct match. You'll first need to be admitted to a Stanford PhD program, then contact us once you're here — so the strongest first step is applying to the program that best fits your interests. Once admitted, we strongly encourage incoming students to apply to the [Chemistry/Biology Interface (CBI) Training Program](https://chemh-cbi.stanford.edu/), which supports interdisciplinary trainees across chemistry, engineering, and the biosciences.
 
 **Undergraduate researchers.**
-We are not currently accepting undergraduate researchers at this point.
+Undergraduates are welcome to contact the lab beginning in 2027. 
 
 ---
 
@@ -35,7 +37,7 @@ We are not currently accepting undergraduate researchers at this point.
 <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
 
 <div class="apply-fallback">
-  <p>If the form doesn't load, you can open it in a new tab:</p>
+  <p><strong>If the form doesn't load, you can open it in a new tab:</strong></p>
   <a href="https://tally.so/r/QKjAa8" target="_blank" rel="noopener" class="apply-button">
     Open the application form &rarr;
   </a>
@@ -68,4 +70,4 @@ We are not currently accepting undergraduate researchers at this point.
 
 ## Questions about the lab
 
-For questions about the research, projects, or fit that aren't an application, you can reach me at **mpad@stanford.edu**. For applications, the form above is the fastest route; it lands directly in our review queue and we read every submission.
+For questions about the research, projects, or fit that aren't an application, you can reach me at **[mpad@stanford.edu](mailto:mpad@stanford.edu)**. For applications, the form above is the fastest route; it lands directly in our review queue and we read every submission.
