@@ -332,3 +332,9 @@ body.about h1:first-of-type,
   font-weight: 700 !important;
   font-size: 1.15rem;
 }
+
+/* Bold/italic inside a link should keep the link's color, not the body color */
+a strong,
+a em {
+  color: inherit;
+}
