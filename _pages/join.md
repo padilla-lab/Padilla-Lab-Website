@@ -17,15 +17,15 @@ We use **one application form** for all positions. Choose your level when you ap
 
 ## Who we're looking for
 
-**Postdoctoral researchers.**
+<strong style="color: var(--global-theme-color);">Postdoctoral fellows.</strong>
 We have **three years of funding** available for a postdoc to start as early as **September 2026**. Strong candidates have a PhD (or will defend soon) in chemistry, chemical/biomedical engineering, materials science, biophysics, or a related field, and a track record of high-impact research and publications. Backgrounds in chemical synthesis, nucleic acid delivery, solution biophysics (SAXS/SANS, AF4-MALS, AUC), immune engineering, and cell engineering are especially relevant, but we value scientific range over an exact match.
 
-**Graduate students.**
+<strong style="color: var(--global-theme-color);">Graduate students.</strong>
 Prospective and current PhD students in Materials Science & Engineering and other Stanford PhD programs are welcome to reach out about rotations and projects — tell us what problems you want to work on.
 
 A note on how joining works: students come into the lab through Stanford's admissions, not by direct match. You'll first need to be admitted to a Stanford PhD program, then contact us once you're here — so the strongest first step is applying to the program that best fits your interests. Once admitted, we encourage incoming students to apply to the **[Chemistry/Biology Interface (CBI) Training Program](https://chemh-cbi.stanford.edu/)**, which supports interdisciplinary trainees across chemistry, engineering, and the biosciences.
 
-**Undergraduate researchers.**
+<strong style="color: var(--global-theme-color);">Undergraduate researchers.</strong>
 Undergraduates are welcome to contact the lab beginning in 2027. 
 
 ---
