@@ -338,3 +338,17 @@ a strong,
 a em {
   color: inherit;
 }
+
+/* Manuscript type pill above each publication title */
+.bibliography .article-type {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--global-theme-color);
+  border: 1px solid var(--global-theme-color);
+  border-radius: 999px;
+  padding: 0.12rem 0.6rem;
+  margin-bottom: 0.4rem;
+}
