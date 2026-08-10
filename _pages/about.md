@@ -28,7 +28,7 @@ social: true # shows contact icons at the bottom of the page
           </div>
           <div class="carousel-item">
             <img src="{{ '/assets/img/cryo-tem.jpg' | relative_url }}" class="img-fluid rounded d-block w-100" alt="Cryo-TEM of a lipid nanoparticle co-encapsulating mRNA and a small-molecule chemotherapeutic">
-            <div class="caption" style="margin-top: 12px; margin-bottom: 0; color: #547068;">Cryogenic transmission electron microscopy image of a lipid nanoparticle co-encapsulating mRNA and a small-molecule chemotherapeutic. Adapted from Padilla et al., <em>Advanced Materials</em> (accepted).</div>
+            <div class="caption" style="margin-top: 12px; margin-bottom: 0; color: #547068;">Cryogenic transmission electron microscopy image of a lipid nanoparticle co-encapsulating mRNA and a small-molecule chemotherapeutic. Adapted from Padilla et al., <em>Advanced Materials</em> (2026).</div>
           </div>
           <div class="carousel-item">
             <a href="https://doi.org/10.1038/s41467-024-55137-6" target="_blank" rel="noopener" title="View the paper" class="fig-link"><img src="{{ '/assets/img/md-sim.jpg' | relative_url }}" class="img-fluid rounded d-block w-100" alt="Atomistic molecular dynamics simulation of a BEND lipid entering an endosomal bilayer"></a>
