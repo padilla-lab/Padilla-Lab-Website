@@ -19,7 +19,7 @@ social: true # shows contact icons at the bottom of the page
 
 <div class="row justify-content-center mt-4 mb-4" markdown="0">
   <div class="col-sm-8">
-    <div style="background: #ffffff; padding: 20px; border-radius: 12px; box-shadow: 0 4px 14px rgba(40,63,59,0.15);">
+    <div style="background: #ffffff; padding: 20px; border-radius: 12px; box-shadow: 0 4px 14px rgba(46,45,41,0.15);">
       <div id="figureCarousel" class="carousel slide figure-carousel" data-ride="carousel" data-interval="6000">
         <div class="carousel-inner">
           <div class="carousel-item active">
