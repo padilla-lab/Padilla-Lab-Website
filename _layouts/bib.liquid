@@ -47,6 +47,10 @@
 
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
+   <!-- Manuscript type -->
+    {% if entry.article_type %}
+      <div class="article-type">{{ entry.article_type }}</div>
+    {% endif %}
     <!-- Title -->
     <div class="title">{{ entry.title }}</div>
     <!-- Author -->
