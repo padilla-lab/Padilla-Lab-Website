@@ -1,16 +1,20 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-09-07'
 papers:
+  Rjdpb_wAAAAJ:-f6ydRqryjwC:
+    citations: 0
+    title: Enhancing Lipid Nanoparticle-Mediated Circular RNA and mRNA Expression in the Placenta through Inhibition of IFNAR-JAK-STAT Signaling
+    year: '2026'
   Rjdpb_wAAAAJ:0EnyYjriUFMC:
     citations: 5
     title: Probing ionic liquid toxicity through biophysical and computational methods
     year: '2024'
   Rjdpb_wAAAAJ:2osOgNQ5qMEC:
-    citations: 85
+    citations: 89
     title: "Rational design of anti\u2010inflammatory lipid nanoparticles for mRNA delivery"
     year: '2022'
   Rjdpb_wAAAAJ:3fE2CSJIrl8C:
-    citations: 54
+    citations: 55
     title: Oxidized mRNA lipid nanoparticles for in situ chimeric antigen receptor monocyte engineering
     year: '2024'
   Rjdpb_wAAAAJ:4DMP91E08xMC:
@@ -22,15 +26,15 @@ papers:
     title: Photosensitive GFP mutants containing an azobenzene unnatural amino acid
     year: '2015'
   Rjdpb_wAAAAJ:7PzlFSSx8tAC:
-    citations: 11
+    citations: 13
     title: Preparation of targeted lipid nanoparticles for precision nucleic acid delivery
     year: '2026'
   Rjdpb_wAAAAJ:8k81kl-MbHgC:
-    citations: 75
+    citations: 78
     title: "Predictive high-throughput platform for dual screening of mRNA lipid nanoparticle blood\u2013brain barrier transfection and crossing"
     year: '2024'
   Rjdpb_wAAAAJ:9yKSN-GCB0IC:
-    citations: 75
+    citations: 81
     title: EGFR-targeted ionizable lipid nanoparticles enhance in vivo mRNA delivery to the placenta
     year: '2024'
   Rjdpb_wAAAAJ:IWHjjKOFINEC:
@@ -38,11 +42,11 @@ papers:
     title: Tumor-Associated EDA-FN-Enriched Matrix Instructs Macrophage Behavior
     year: '2026'
   Rjdpb_wAAAAJ:IjCSPb-OGe4C:
-    citations: 49
+    citations: 50
     title: Delivery of plasmid DNA by ionizable lipid nanoparticles to induce CAR expression in T cells
     year: '2023'
   Rjdpb_wAAAAJ:KlAtU1dfN6UC:
-    citations: 141
+    citations: 154
     title: 'Breaking the final barrier: Evolution of cationic and ionizable lipid structure in lipid nanoparticles to escape the endosome'
     year: '2024'
   Rjdpb_wAAAAJ:L8Ckcad2t8MC:
@@ -50,16 +54,16 @@ papers:
     title: Liver-Detargeted Aromatic Bioreducible mRNA Lipid Nanoparticles Confer Lymph Node Tropism and Robust Antigen-Specific Immunity
     year: '2026'
   Rjdpb_wAAAAJ:M3ejUd6NZC8C:
-    citations: 12
+    citations: 17
     title: Automated and parallelized microfluidic generation of large and precisely defined lipid nanoparticle libraries
     year: '2026'
   Rjdpb_wAAAAJ:MXK_kJrjxJIC:
-    citations: 307
+    citations: 325
     title: 'Nanoparticle protein corona: from structure and function to therapeutic targeting'
     year: '2023'
   Rjdpb_wAAAAJ:Se3iqnhoufwC:
-    citations: 56
-    title: Lipid nanoparticle delivery of small proteins for potent in vivo RAS inhibition
+    citations: 59
+    title: Lipid Nanoparticle Delivery of Small Proteins for Potent In Vivo RAS Inhibition
     year: '2023'
   Rjdpb_wAAAAJ:Tyk-4Ss8FVUC:
     citations: 4
@@ -70,11 +74,11 @@ papers:
     title: Solution biophysics identifies lipid nanoparticle non-sphericity, polydispersity, and dependence on internal ordering for efficacious mRNA delivery
     year: '2024'
   Rjdpb_wAAAAJ:UeHWp8X0CEIC:
-    citations: 32
+    citations: 33
     title: Testing the In Vitro and In Vivo Efficiency of mRNA-Lipid Nanoparticles Formulated by Microfluidic Mixing
     year: '2023'
   Rjdpb_wAAAAJ:UebtZRa9Y70C:
-    citations: 159
+    citations: 165
     title: Ionizable lipid nanoparticles for in vivo mRNA delivery to the placenta during pregnancy
     year: '2023'
   Rjdpb_wAAAAJ:WF5omc3nYNoC:
@@ -82,19 +86,19 @@ papers:
     title: Redefining The Characterization Paradigm of RNA Lipid Nanoparticles
     year: '2023'
   Rjdpb_wAAAAJ:Wp0gIr-vW9MC:
-    citations: 33
+    citations: 34
     title: Elucidating lipid nanoparticle properties and structure through biophysical analyses
     year: '2025'
   Rjdpb_wAAAAJ:Y0pCki6q_DkC:
-    citations: 164
+    citations: 171
     title: Throughput-scalable manufacturing of SARS-CoV-2 mRNA lipid nanoparticle vaccines
     year: '2023'
   Rjdpb_wAAAAJ:YOwf2qJgpHMC:
-    citations: 71
+    citations: 74
     title: Branched endosomal disruptor (BEND) lipids mediate delivery of mRNA and CRISPR-Cas9 ribonucleoprotein complex for hepatic gene editing and T cell engineering
     year: '2025'
   Rjdpb_wAAAAJ:YsMSGLbcyi4C:
-    citations: 97
+    citations: 100
     title: Fast and facile synthesis of amidine-incorporated degradable lipids for versatile mRNA delivery in vivo
     year: '2024'
   Rjdpb_wAAAAJ:ZeXyd9-uunAC:
@@ -102,7 +106,7 @@ papers:
     title: "Resolving Heterogeneity of Targeted Lipid Nanoparticles Through Solution\u2010Based Biophysical Analyses"
     year: '2026'
   Rjdpb_wAAAAJ:Zph67rFs4hoC:
-    citations: 147
+    citations: 157
     title: Peptide-functionalized lipid nanoparticles for targeted systemic mRNA delivery to the brain
     year: '2025'
   Rjdpb_wAAAAJ:_FxGoFyzp5QC:
@@ -110,11 +114,11 @@ papers:
     title: Investigation of copper-free alkyne/azide 1, 3-dipolar cycloadditions using microwave irradiation
     year: '2018'
   Rjdpb_wAAAAJ:_kc_bZDykSQC:
-    citations: 32
+    citations: 35
     title: Lipid Nanoparticles for In Vivo Lung Delivery of CRISPR-Cas9 Ribonucleoproteins Allow Gene Editing of Clinical Targets
     year: '2025'
   Rjdpb_wAAAAJ:aqlVkmm33-oC:
-    citations: 0
+    citations: 1
     title: "Lipid Nanoparticle Co\u2010Delivery of mRNA and a Small Molecule Drug for Oral Cancer Chemoimmunotherapy"
     year: '2025'
   Rjdpb_wAAAAJ:d1gkVwhDpl0C:
@@ -130,11 +134,11 @@ papers:
     title: Solution biophysics reveals the polydisperse structure of RNA lipid nanoparticles
     year: '2025'
   Rjdpb_wAAAAJ:hqOjcs7Dif8C:
-    citations: 98
+    citations: 104
     title: Antigen presenting cell mimetic lipid nanoparticles for rapid mRNA CAR T cell cancer immunotherapy
     year: '2024'
   Rjdpb_wAAAAJ:kNdYIx-mwKoC:
-    citations: 48
+    citations: 51
     title: "Lipid nanoparticle\u2010mediated RNA delivery for immune cell modulation"
     year: '2024'
   Rjdpb_wAAAAJ:mVmsd5A6BfQC:
@@ -146,11 +150,11 @@ papers:
     title: mRNA lipid nanoparticle cancer vaccine platform delivering multiple STING activators for enhanced antitumor activity
     year: '2026'
   Rjdpb_wAAAAJ:qjMakFHDy7sC:
-    citations: 196
+    citations: 200
     title: Rational design of bisphosphonate lipid-like materials for mRNA delivery to the bone microenvironment
     year: '2022'
   Rjdpb_wAAAAJ:qxL8FJ1GzNcC:
-    citations: 5
+    citations: 7
     title: Cas9 protein outperforms mRNA in lipid nanoparticle-mediated CFTR repair
     year: '2025'
   Rjdpb_wAAAAJ:roLk4NBRz8UC:
@@ -158,7 +162,7 @@ papers:
     title: Synthesis and incorporation of a caged tyrosine amino acid possessing a bioorthogonal handle
     year: '2016'
   Rjdpb_wAAAAJ:u-x6o8ySG0sC:
-    citations: 61
+    citations: 63
     title: Influence of ionizable lipid tail length on lipid nanoparticle delivery of mRNA of varying length
     year: '2024'
   Rjdpb_wAAAAJ:u5HHmVD_uO8C:
