@@ -1,4 +1,4 @@
-**Marshall S. Padilla, Ph.D.** is an Assistant Professor in the Department of Materials Science & Engineering and a Sarafan ChEM-H Institute Scholar at Stanford University.
+**Marshall S. Padilla, Ph.D.** is an incoming Assistant Professor in the Department of Materials Science & Engineering and a Sarafan ChEM-H Institute Scholar at Stanford University.
 
 Marshall received his B.S. in Chemistry with a minor in Mathematics at the College of William & Mary, his Ph.D. in Chemistry (Chemical Biology) at the University of Wisconsin–Madison, and was an NIH Postdoctoral Fellow at the University of Pennsylvania. His prior research spans the synthesis and genetic incorporation of unnatural amino acids into proteins, the development of hydrophobic nanoemulsion excipients, and identification of the structure–activity relationships of RNA lipid nanoparticles.
 
