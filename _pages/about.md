@@ -48,7 +48,7 @@ social: true # shows contact icons at the bottom of the page
 </div>
 
 <div class="explore-hub">
-<h2 class="explore-heading">Explore the Lab</h2>
+
 <div class="explore-grid">
 <a class="explore-card" href="{{ '/research/' | relative_url }}">
 <h3>Research</h3>
