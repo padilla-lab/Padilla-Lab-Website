@@ -376,7 +376,7 @@ a em {
 }
 .news-card { flex-direction: column; }
 .news-thumb { flex: 0 0 auto; width: 100%; background: var(--global-bg-color); }
-.news-thumb img { width: 100%; height: auto; max-height: 420px; object-fit: contain; display: block; }
+.news-thumb img { width: 100%; height: auto; max-height: none; object-fit: contain; display: block; }
 .news-body { padding: 1.15rem 1.35rem; flex: 1; }
 
 .news-date {
