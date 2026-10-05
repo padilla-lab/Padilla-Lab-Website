@@ -26,7 +26,7 @@ A note on how joining works: students come into the lab through Stanford's admis
 Our funded postdoctoral search has closed. We do still welcome inquiries from exceptional candidates who hold — or are actively applying for — their own fellowship support, such as an NIH F32 or K99/R00, NSF, HHMI Hanna Gray, Damon Runyon, Jane Coffin Childs, EMBO, or an equivalent. If that's you, please email me a short description of the problems you want to work on, your CV, and the fellowship you hold or intend to pursue.
 
 <strong style="color: var(--global-theme-color);">Undergraduate researchers.</strong>
-Undergraduates are welcome to contact the lab beginning in 2027.
+Undergraduates are welcome to contact the lab beginning in 2028.
 
 ---
 
