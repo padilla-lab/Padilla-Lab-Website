@@ -374,9 +374,9 @@ a em {
   overflow: hidden;
   margin-bottom: 1.25rem;
 }
-.news-card { min-height: 200px; }
-.news-thumb { flex: 0 0 280px; background: var(--global-bg-color); }
-.news-thumb img { width: 100%; height: 100%; object-fit: contain; display: block; }
+.news-card { flex-direction: column; }
+.news-thumb { flex: 0 0 auto; width: 100%; background: var(--global-bg-color); }
+.news-thumb img { width: 100%; height: auto; max-height: 420px; object-fit: contain; display: block; }
 .news-body { padding: 1.15rem 1.35rem; flex: 1; }
 
 .news-date {
