@@ -46,29 +46,3 @@ social: true # shows contact icons at the bottom of the page
     </div>
   </div>
 </div>
-
-<div class="explore-hub">
-
-<div class="explore-grid">
-<a class="explore-card" href="{{ '/research/' | relative_url }}">
-<h3>Research</h3>
-<p>Three connected thrusts across cell-specific gene editing, in&nbsp;vivo CAR therapy, and barrier-crossing materials.</p>
-<span class="explore-go">Explore the research &rarr;</span>
-</a>
-<a class="explore-card" href="{{ '/publications/' | relative_url }}">
-<h3>Publications</h3>
-<p>Peer-reviewed work in Nature&nbsp;Communications, Nature&nbsp;Biotechnology, JACS, and more.</p>
-<span class="explore-go">See all publications &rarr;</span>
-</a>
-<a class="explore-card" href="{{ '/team/' | relative_url }}">
-<h3>Team</h3>
-<p>Meet the founding members of the lab &mdash; and the people building it from day one.</p>
-<span class="explore-go">Meet the lab &rarr;</span>
-</a>
-<a class="explore-card" href="{{ '/join/' | relative_url }}">
-<h3>Join</h3>
-<p>We&rsquo;re recruiting founding Ph.D. students and postdocs for September&nbsp;2026.</p>
-<span class="explore-go">How to join &rarr;</span>
-</a>
-</div>
-</div>
