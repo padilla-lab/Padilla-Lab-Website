@@ -438,3 +438,5 @@ a em {
 .apply-link:hover {
   background: var(--global-theme-color); color: #fff; text-decoration: none;
 }
+
+.news-title { font-variant-numeric: lining-nums; font-feature-settings: "lnum" 1; }
