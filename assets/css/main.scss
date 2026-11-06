@@ -398,3 +398,43 @@ a em {
   .news-card { flex-direction: column; }
   .news-thumb { flex: 0 0 auto; height: 200px; }
 }
+
+/* ---- Open positions (Join page) ---- */
+.position-jump { display: flex; flex-wrap: wrap; gap: 0.7rem; margin: 1.1rem 0 2.5rem; }
+.position-jump a {
+  font-size: 0.86rem; font-weight: 700; text-decoration: none;
+  color: var(--global-theme-color);
+  border: 1px solid var(--global-theme-color);
+  border-radius: 8px; padding: 0.45rem 1rem;
+}
+.position-jump a:hover {
+  background: var(--global-theme-color); color: #fff; text-decoration: none;
+}
+
+.position-head { scroll-margin-top: 90px; margin-top: 2.5rem; }
+.position-label {
+  font-size: 0.66rem; font-weight: 700; letter-spacing: 0.12em;
+  text-transform: uppercase; color: var(--global-theme-color); margin-bottom: 0.35rem;
+}
+.position-title {
+  text-transform: none; font-size: 1.75rem; line-height: 1.22; margin: 0 0 0.5rem;
+}
+.position-meta {
+  color: var(--global-text-color-light); font-size: 0.88rem;
+  line-height: 1.5; margin-bottom: 1.4rem;
+}
+
+/* ---- Tally embeds ---- */
+.apply-head h3 { text-transform: none; font-size: 1.25rem; margin: 2rem 0 0.5rem; }
+.apply-embed { margin: 0 0 1rem; }
+.apply-fallback { text-align: center; margin-bottom: 1rem; }
+.apply-fallback p { margin: 0 0 0.6rem; }
+.apply-link {
+  display: inline-block; font-weight: 700;
+  border: 1px solid var(--global-theme-color);
+  color: var(--global-theme-color);
+  padding: 0.45rem 1.1rem; border-radius: 8px; text-decoration: none;
+}
+.apply-link:hover {
+  background: var(--global-theme-color); color: #fff; text-decoration: none;
+}
