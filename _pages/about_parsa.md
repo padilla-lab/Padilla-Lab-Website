@@ -1,0 +1,7 @@
+**Parsa Parirokh** is a graduate student in Stanford University's Master of Translational Research and Applied Medicine (M-TRAM) program, with a background in mRNA therapeutics and drug development.
+
+Parsa earned his B.S. in Pharmacological Chemistry from the University of California, San Diego. As one of the earliest members of Arcturus Therapeutics, he made significant contributions to the company's first drug candidate, an mRNA-LNP therapeutic for ornithine transcarbamylase (OTC) deficiency. His involvement in the OTC program spanned its progression from discovery and process development through preclinical studies and early clinical trials, with a focus on mRNA sequence and structural engineering, synthesis and purification process development, and analytical characterization. He also contributed to several of the company's patented mRNA platform technologies, as well as two therapeutic candidates now in Phase 2 clinical trials and one of the first approved self-amplifying mRNA COVID-19 vaccines.
+
+Recognizing that targeted delivery remains a major barrier to expanding the therapeutic applications of mRNA, Parsa pursued research in lipid nanoparticle engineering in Professor Michael Mitchell's laboratory at the University of Pennsylvania before joining Stanford.
+
+His current research interests include targeted lipid nanoparticle delivery, in vivo immune cell engineering, and machine learning-guided nanoparticle design. Outside the lab, he enjoys weightlifting, longboarding, and exploring coffee shops throughout the Bay Area.
