@@ -24,7 +24,7 @@ social: true # shows contact icons at the bottom of the page
         <div class="carousel-inner">
           <div class="carousel-item active">
             <a href="https://doi.org/10.1038/s41587-025-02855-x" target="_blank" rel="noopener" title="View the paper" class="fig-link">{% include video.liquid path="assets/video/lnp.mp4" class="img-fluid rounded d-block w-100" autoplay=true loop=true muted=true %}</a>
-            <div class="caption" style="margin-top: 12px; margin-bottom: 0; color: #6b665e;">Three-dimensional electron-density reconstruction of an mRNA lipid nanoparticle from small-angle X-ray scattering. Adapted from Padilla et al., <em>Nature Biotechnology</em> (2025).</div>
+            <div class="caption" style="margin-top: 12px; margin-bottom: 0; color: #6b665e;">Three-dimensional electron-density reconstruction of an mRNA lipid nanoparticle from small-angle X-ray scattering. Adapted from Padilla et al., <em>Nature Biotechnology</em> (2026).</div>
           </div>
           <div class="carousel-item">
           <a href="https://doi.org/10.1002/adma.73721" target="_blank" rel="noopener" title="View the paper" class="fig-link"><img src="{{ '/assets/img/cryo-tem.jpg' | relative_url }}" class="img-fluid rounded d-block w-100" alt="Cryo-TEM of a lipid nanoparticle co-encapsulating mRNA and a small-molecule chemotherapeutic"></a>
