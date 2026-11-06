@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /team/
 title: team
-description: The Padilla Lab opens in September 2026 — founding member recruitment is underway.
+description: The Padilla Lab opens at Stanford in March 2027 — founding member recruitment is underway.
 nav: true
 nav_order: 3
 
