@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-join",
           title: "join",
-          description: "",
+          description: "The Padilla Lab at Stanford is recruiting two co-mentored postdoctoral scholars — in quantitative proteomics of the LNP protein corona, and in cryo-electron tomography and 4D-STEM of lipid nanoparticles.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/join/";
