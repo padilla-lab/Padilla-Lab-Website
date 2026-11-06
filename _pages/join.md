@@ -4,7 +4,7 @@ title: join
 nav: true
 nav_order: 5
 permalink: /join/
-description: 
+description: The Padilla Lab at Stanford is recruiting two co-mentored postdoctoral scholars — in quantitative proteomics of the LNP protein corona, and in cryo-electron tomography and 4D-STEM of lipid nanoparticles. 
 ---
 
 The Padilla Lab is an interdisciplinary lab that utilizes a range of tools to study and advance RNA nanomedicine. A typical Padilla Lab member will spend their time synthesizing novel molecules, formulating nanoparticles, employing advanced characterization methods, performing cellular assays, and testing their creations in vivo — sometimes all in the same week!
