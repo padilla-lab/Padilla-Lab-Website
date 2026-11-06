@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-team",
           title: "team",
-          description: "The Padilla Lab opens in September 2026 — founding member recruitment is underway.",
+          description: "The Padilla Lab opens at Stanford in March 2027 — founding member recruitment is underway.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/team/";
