@@ -23,5 +23,13 @@ profiles:
     image_circular: false
     more_info: >
       <p>Postdoctoral Researcher</p>
+
+  - align: right
+    image: team/parsa_parirokh.jpg
+    content: about_parsa.md
+    image_circular: false
+    more_info: >
+      <p>Master's Student</p>
+
 ---
 
